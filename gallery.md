@@ -56,6 +56,9 @@ permalink: /gallery/
           </div>
       </div>
   </div>
+
+  <h1> <center> Articles </center> <h1>
+
   <div class="overlayContainer">
       <a href="http://www.fastcoexist.com/3028555/change-generation/a-google-glass-app-for-doctors-to-stream-video-of-patients-to-consult-othe" class="item">
           <img src="/images/nFast.jpg" alt="">
@@ -100,6 +103,9 @@ permalink: /gallery/
           </div>
       </a>
   </div>
+
+  <h1> <center> Videos </center> <h1>
+
   <div class="interviewContainer">
       <a href="http://zana.io/experts/noor-siddiqui/" class="item">
           <img src="/images/zana.jpg" alt="">
@@ -125,5 +131,4 @@ permalink: /gallery/
               <p class="long">Ingrid Vanderveldt with DELL</p>
           </div>
       </a>
-  </div>
   </div>
