@@ -29,3 +29,5 @@ theme: minima
 
 # Urls should look like https://www.noorsiddiqui.com/post-title/
 permalink: /:title/
+
+exclude: [CNAME, Gemfile, Gemfile.lock]
