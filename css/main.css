@@ -692,7 +692,8 @@ a:visited { color: #205caa; }
 }
 
 .gallery .images-container .col .picture {
-    width: 100%
+    width: 100%;
+    line-height: 0;
 }
 
 .gallery .images-container .col .picture img {
