@@ -107,7 +107,7 @@ a:visited { color: #205caa; }
 }
 
 .icon.email svg {
-  vertical-align: bottom;
+  vertical-align: middle;
 }
 
 .site-footer ul { list-style: none; }
