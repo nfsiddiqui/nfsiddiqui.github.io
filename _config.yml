@@ -26,3 +26,6 @@ email: nfsiddiqui [at] gmail [dot] com
 # Build settings
 markdown: kramdown
 theme: minima
+
+# Urls should look like https://www.noorsiddiqui.com/post-title/
+permalink: /:title/
