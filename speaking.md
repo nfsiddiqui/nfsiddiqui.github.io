@@ -5,20 +5,37 @@ permalink: /speaking/
 ---
 
 <div class="speaking">
-    <h2 class="year">
-        2015
+    <h2 class ="year">
+        2017
     </h2>
     <div class="event">
         <div class="date">
-            Sep 12
+            Feb 28
         </div>
-        <a href="http://tedxredmond.com/tedxyouthredmond-2015/" class="title">
-            TEDxYouth Redmond
+        <a href="https://www.youtube.com/watch?v=_-sgsBEv4nE" class="title">
+            The Heart of the Matter:  AI & Healthcare
         </a>
         <div class="subtitle">
-            Redmond, WA
+            Palo Alto, CA
         </div>
     </div>
+    <h2 class ="year">
+        2016
+    </h2>
+    <div class="event">
+        <div class="date">
+            Oct 5
+        </div>
+        <a href="http://www.goagainsttheflow.com/" class="title">
+            Go Against The Flow Film Screening + Panel
+        </a>
+        <div class="subtitle">
+            San Francisco, CA
+        </div>
+    </div>
+    <h2 class="year">
+        2015
+    </h2>
     <div class="event">
         <div class="date">
             Aug 12
@@ -203,7 +220,7 @@ permalink: /speaking/
             Kaiser Permanente’s Executive Leadership Summit
         </a>
         <div class="subtitle">
-            Dana Point
+            Dana Point, California
         </div>
     </div>
 
@@ -267,7 +284,7 @@ permalink: /speaking/
             Equinox Summit: Learning 2030
         </a>
         <div class="subtitle">
-            Ontario Canada
+            Perimeter Institute, Waterloo, Ontario, Canada
         </div>
     </div>
 
@@ -275,6 +292,9 @@ permalink: /speaking/
         <a href="https://www.youtube.com/watch?v=Q7g89tI_l3s&amp;index=2&amp;list=PLsaIuVWS9zO_Hmk9b-tj3kGZ4cuFV054A" class="title">
             The Agenda With Steve Paikin
         </a>
+        <div class="subtitle">
+            Perimeter Institute, Waterloo, Ontario, Canada
+        </div>
     </div>
 
     <h2 class="year">
