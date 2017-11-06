@@ -6,16 +6,18 @@ layout: default
 
   <h1 class="page-heading">Posts</h1>
 
-  <ul class="posts">
+  <div class="posts">
     {% for post in site.posts %}
-      <li>
-        <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+    {% assign post-url = {{post.url}} %}
+    {% assign size = post-url | size | minus: 1 %}
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
-        </h2>
-      </li>
+    <a class="post-card grow" href="{{ post.url | prepend: site.baseurl }}" style="background-image: linear-gradient(to bottom, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0.6) 40%, rgba(255, 255, 255, 0) 60%), url('/images/post-covers{{ post-url | slice: 0, size }}.png');">
+      <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+      <h2 class="post-title">{{ post.title | escape }}</h2>
+
+      <!-- <img class="post-image" width=100% height=auto src=""/> -->
+    </a>
     {% endfor %}
-  </ul>
+  </div>
 
 </div>
