@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "What to consider when starting a new project"
-date:   2017-06-17 14:50:04 -0700
 categories: video philosophy
 ---
 
@@ -106,4 +105,4 @@ weeks from now. Now.” (3)
 
 Quotes (adapted) from Yusuf Ali (1), Carl Sagan (2) and Debbie Millman (3)
 
-Thanks to Pau Guinart Lopez, Joshua Landy, and Jorah Dannenberg for the feedback in making this. 
+Thanks to Pau Guinart Lopez, Joshua Landy, and Jorah Dannenberg for the feedback in making this.

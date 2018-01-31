@@ -16,4 +16,4 @@ A video interview I did for a class on Ethics in Computer Science in the Gates L
 + [WebTorrent](https://webtorrent.io/) creator Feross Aboukhadijeh   
 
 
-Thanks to Keith Winstein and Allison Berke for the feedback on this project.
+Thanks to Keith Weinstein and Allison Berke for the feedback on this project.

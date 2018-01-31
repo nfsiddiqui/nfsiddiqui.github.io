@@ -4,6 +4,9 @@ title: Gallery
 permalink: /gallery/
 ---
 
+<h2> <center> Photos </center> <h2>
+<br>
+
 <div class="content gallery">
   <div class="images-container">
       <div class="col">
@@ -57,7 +60,9 @@ permalink: /gallery/
       </div>
   </div>
 
-  <h1> <center> Articles </center> <h1>
+
+  <h2> <center> Articles </center> <h2>
+  <br>
 
   <div class="overlayContainer">
       <a href="http://www.fastcoexist.com/3028555/change-generation/a-google-glass-app-for-doctors-to-stream-video-of-patients-to-consult-othe" class="item">
@@ -104,7 +109,9 @@ permalink: /gallery/
       </a>
   </div>
 
-  <h1> <center> Videos </center> <h1>
+
+  <h2> <center> Videos </center> <h2>
+  <br>
 
   <div class="interviewContainer">
       <a href="http://zana.io/experts/noor-siddiqui/" class="item">
