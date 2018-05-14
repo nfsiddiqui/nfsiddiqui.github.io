@@ -5,6 +5,31 @@ permalink: /speaking/
 ---
 
 <div class="speaking">
+<h2 class ="year">
+    2018
+</h2>
+<div class="event">
+    <div class="date">
+        April 20
+    </div>
+    <a href="https://sv.ai/2018-ai-download/" class="title">
+        SVAI Download - AI Applications in Healthcare
+    </a>
+    <div class="subtitle">
+        Computer History Museum, Mountain View, CA
+    </div>
+
+    <div class="event">
+        <div class="date">
+            April 2
+        </div>
+        <a href="https://www.genesisblockhk.com/" class="title">
+            Panel: Healthcare, AI, and the blockchain
+        </a>
+        <div class="subtitle">
+            Genesis Block, Wan Chai, Hong Kong
+        </div>
+</div>
     <h2 class ="year">
         2017
     </h2>
