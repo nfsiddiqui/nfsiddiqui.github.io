@@ -114,10 +114,10 @@ permalink: /gallery/
   <br>
 
   <div class="interviewContainer">
-      <a href="http://zana.io/experts/noor-siddiqui/" class="item">
+      <a href="https://www.startups.co/education/lessons/idea-execution" class="item">
           <img src="/images/zana.jpg" alt="">
           <div class="overlaytext">
-              <p>Zana.io</p>
+              <p>Startups.co</p>
           </div>
       </a>
       <a href="https://www.youtube.com/watch?v=KFFRKg5iYhU&amp;feature=youtube_gdata" class="item">
@@ -139,3 +139,12 @@ permalink: /gallery/
           </div>
       </a>
   </div>
+
+ <h2> <center> GIFs </center> <h2>
+
+<br>
+  <iframe src='//gifs.com/embed/bungee-E99Oyk' frameborder='0' scrolling='no' width='197px' height='358px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
+
+  <iframe src='//gifs.com/embed/flamethrower-APPqg1' frameborder='0' scrolling='no' width='197px' height='358px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
+
+  <iframe src='//gifs.com/embed/jump-4RRmD6' frameborder='0' scrolling='no' width='197px' height='358px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
