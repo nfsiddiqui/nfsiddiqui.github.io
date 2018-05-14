@@ -23,7 +23,7 @@ Right now I'm studying Computer Science at Stanford. I'm interested in using CS 
 
 <br>
 
-Before Stanford, I started a digital health company called Remedy, that helped doctors get instant answers from specialists. We deployed our product to doctors and nurses at Harvard affiliated hospitals. [Thiel Fellowship](http://www.thielfellowship.org/").  
+Before Stanford, I started a digital health company called Remedy, that helped doctors get instant answers from specialists. We deployed our product to doctors and nurses at Harvard affiliated hospitals. I met some of my favorite people through the [Thiel Fellowship](http://www.thielfellowship.org/").  
 
 
 
