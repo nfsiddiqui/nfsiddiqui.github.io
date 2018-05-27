@@ -17,7 +17,7 @@ layout: default
     {% assign post-url = {{post.url}} %}
     {% assign size = post-url | size | minus: 1 %}
 
-    <a class="post-card grow" href="{{ post.url | prepend: site.baseurl }}" style="background-image: linear-gradient(to bottom, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0.6) 40%, rgba(255, 255, 255, 0) 60%), url('/images/post-covers{{ post-url | slice: 0, size }}.png');">
+    <a class="post-card grow" href="{{ post.url | prepend: site.baseurl }}" style="background-image: linear-gradient(to bottom, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0.6) 40%, rgba(255, 255, 255, 0) 60%), url('/images/post-covers{{ post-url | slice: 0, size }}.jpg');">
       <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
       <h2 class="post-title">{{ post.title | escape }}</h2>
 
