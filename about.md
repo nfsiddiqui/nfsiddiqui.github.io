@@ -19,7 +19,11 @@ img {
 
 <br>
 
-Right now I'm studying Computer Science at Stanford. I'm interested in using CS to better understand the code for life (DNA), and engineering healthier humans.
+Right now I'm doing research under [Anshul Kundaje](https://profiles.stanford.edu/anshul-kundaje) (deep learning for genomics). Past: researcher under [Sebastian Thrun](https://en.wikipedia.org/wiki/Sebastian_Thrun) (skin classifiers).
+
+<br>
+
+While at Stanford, I started a talk series called [#nofilter](https://nofiltertalks.com/), ran a translational [group](http://ai.stanford.edu/entrepreneurs/index.html) for researchers in the Stanford AI Lab,  cofounded Stanford's [Center for Distributed Trust](https://cryptolab.stanford.edu/about), and taught a [class](http://web.stanford.edu/class/bioe60/) on distributed technologies.
 
 <br>
 
