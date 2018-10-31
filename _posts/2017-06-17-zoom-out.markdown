@@ -94,8 +94,9 @@ don't stop until you get what you love. Work as hard as you can, imagine immensi
 don't compromise, and don't waste time. Start now. Not 20 years from now, not two
 weeks from now. Now.” (3)
 
+## Credits
 
-#### Footage obtained from:  
+Footage obtained from:  
 
 1. [Introducing Verily](https://www.youtube.com/watch?v=Lyv0_GIGSbY)
 2. [The Sagan Series- The Frontier is Everywhere](https://www.youtube.com/watch?v=oY59wZdCDo0)
@@ -105,4 +106,5 @@ weeks from now. Now.” (3)
 
 Quotes (adapted) from Yusuf Ali (1), Carl Sagan (2) and Debbie Millman (3)
 
-Thanks to Pau Guinart Lopez, Joshua Landy, and Jorah Dannenberg for the feedback in making this.
+## Thanks
+[Joshua Landy](https://dlcl.stanford.edu/people/joshua-landy) and [Jorah Dannenberg](https://philosophy.stanford.edu/people/jorah-dannenberg) provided great feedback in making this.
