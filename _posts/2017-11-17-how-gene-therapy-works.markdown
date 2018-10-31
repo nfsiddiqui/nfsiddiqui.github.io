@@ -141,6 +141,8 @@ Successes in blood disorders, namely beta thalassemia and sickle cell anemia
 
 # Roadblocks
 
-Main problem is delivery
++ The main problem is delivery
 
-Credit for the good stuff goes to Dr. Michele Calos - Professor in Stanford's Department of Genetics, mistakes are mine!
+# Thanks
+
+Credit for the good stuff goes to [Dr. Michele Calos](https://profiles.stanford.edu/michele-calos?tab=publications), mistakes are mine!
