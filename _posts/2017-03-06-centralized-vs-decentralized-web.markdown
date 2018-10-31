@@ -15,5 +15,6 @@ A video interview I did for a class on Ethics in Computer Science in the Gates L
 + [3blue1brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) creator Grant Sanderson  
 + [WebTorrent](https://webtorrent.io/) creator Feross Aboukhadijeh   
 
+## Thanks
 
-Thanks to Keith Weinstein and Allison Berke for the feedback on this project.
+[Keith Winstein](https://cs.stanford.edu/~keithw/) and [Allison Berke](https://fsi.stanford.edu/people/allison-berke) provided feedback on this project.

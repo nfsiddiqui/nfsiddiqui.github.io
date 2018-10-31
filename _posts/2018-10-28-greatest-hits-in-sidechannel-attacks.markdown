@@ -216,7 +216,7 @@ The paper: [RSA Key Extraction via Low-Bandwidth Acoustic Cryptanalysis](https:/
 
 **The attack**:
 
-+ Looks at the acoustic artifacts from a crypto operations. If you put a microphone next to a machine and send the exact right emails over and over again, you can expose the RSA key that GPG (program that implements PGP) is using to decrypt the email.
++ Looks at the acoustic artifacts from a crypto operation. If you put a microphone next to a machine and send the exact right emails over and over again, you can expose the RSA key that GPG (program that implements PGP) is using to decrypt the email.
 
 
 ## 2018
@@ -264,4 +264,4 @@ More information: [Reading privileged memory with a side-channel](https://google
 
 + Credit for the good stuff goes to [Zakir Durumeric](https://zakird.com/), newly minted security professor at Stanford, mistakes are mine!
 + You can get a survey of security topics by reading through the selected papers for the class Zakir is teaching, [CS 356 - Topics in Computer and Network Security](https://cs356.stanford.edu/)
-+ Credit goes to [Feross Aboukhadijeh](feross.org) for finding the visual microphone videos
++ Credit goes to [Feross Aboukhadijeh](feross.org) for finding the visual microphone video

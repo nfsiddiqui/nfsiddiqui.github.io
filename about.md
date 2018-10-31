@@ -23,7 +23,7 @@ Right now I'm doing research under [Anshul Kundaje](https://profiles.stanford.ed
 
 <br>
 
-While at Stanford, I started a talk series called [#nofilter](https://nofiltertalks.com/), ran a translational [group](http://ai.stanford.edu/entrepreneurs/index.html) for researchers in the Stanford AI Lab,  cofounded Stanford's [Center for Distributed Trust](https://cryptolab.stanford.edu/about), and taught a [class](http://web.stanford.edu/class/bioe60/) on distributed technologies.
+While at Stanford, I studied Computer Science, started a talk series called [#nofilter](https://nofiltertalks.com/), ran a translational [group](http://ai.stanford.edu/entrepreneurs/index.html) for researchers in the Stanford AI Lab,  cofounded Stanford's [Center for Distributed Trust](https://cryptolab.stanford.edu/about), and taught a [class](http://web.stanford.edu/class/bioe60/) on distributed technologies.
 
 <br>
 
