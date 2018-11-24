@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to Get to Know Someone"
+title:  "How to get to know someone"
 date:   2018-01-06 14:50:04 -0700
 categories: people
 ---
@@ -100,6 +100,17 @@ Gives them both a chance to rave about each other.
 +   **What was the most romantic thing he/she did for you?**
 
 There's a gushy story here.
+
+### Avoiding small talk
+
+Here is a ~40 question ["no small talk"](https://docs.google.com/spreadsheets/d/1mnSo5Bg_QfLHrIiI60XJ00HxsHRvm33Yx3p3nYA6CDg/edit?usp=sharing) list culled from one originally compiled by [Kristen Berman](https://www.wired.co.uk/article/banning-small-talk).
+
+Some favorites:
+
++ What are you ashamed to admit you enjoy?
++ What do you admire most about someone you know, and why?
++ With what are you generous? With what are you stingy?
++ If you could do away with one societal norm which would it be?
 
 ### Closing Thoughts
 

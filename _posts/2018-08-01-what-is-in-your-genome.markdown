@@ -22,7 +22,7 @@ The 1st chromosome is the largest, with over 247 million base pairs and ~2000 ge
 
 The human genome contains about 20,000 genes. When the human genome was originally sequenced, there was thought to be many more genes, original estimates were upwards of 100,000 genes.
 
-Genes are instructions for how to make proteins. Only 2% of the genome is "coding" meaning it produces a protein product via transcription and translation. The other 98% of the genome was thought to be "junk" but we're just now discovering what the bulk of our DNA actually does. For instance, we now know a large portion of our DNA is"regulatory" DNA meaning the noncoding DNA "regulates" which genes should be turned on/off (expressed or not expressed) under certain conditions. For example, different genes are expressed (produced) during starvation to keep you alive, that would not be turned on if more food was available.
+Genes are instructions for how to make proteins. Only 2% of the genome is "coding" meaning it produces a protein product via transcription and translation. The other 98% of the genome was thought to be "junk" but we're just now discovering what the bulk of our DNA actually does. For instance, we now know a large portion of our DNA is "regulatory" DNA meaning the noncoding DNA "regulates" which genes should be turned on or off (expressed or not expressed) under certain conditions. For example, different genes are expressed (produced) during starvation to keep you alive, that would not have been turned on if conditions were different.
 
 ### Anatomy of a gene
 

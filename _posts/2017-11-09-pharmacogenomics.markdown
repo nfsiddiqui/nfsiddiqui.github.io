@@ -26,7 +26,7 @@ In the future, doctors will use genetics to guide drug and dose selection. "Pati
 
 #### **Pharmacokinetics** (PK): what your body does to the drug
 
-  + absorbing, digesting, metabolizing, excreting) (ADME)  
+  + absorbing, digesting, metabolizing, excreting (ADME)  
   + **A** bsorption - passive, active, or co-transport  
   + **D** istribution - fat or water soluble  
   + **M** etabolism - broken down or modified
@@ -90,7 +90,7 @@ Here, we can see that TMPT levels *drastically* affects thioguanine levels.
 
 #### CYP1, CYP2, CYP3 metabolize ~90 percent of drugs used today
 
-Sometimes the drug that you take orally is taken in an "inactive" state, and needs to be metabolized to it's active state. An individual's ability to metabolize a drug depends on the form of CYP enzyme produced by their liver. Most people have active CYP enzymes, when they take medication it is broken down efficiently and there is no build up of medication in the body (no risk of overdose). If you have deficient CYP, you are not breaking down the medication in your body (leading to toxicity), or the drug may never be converted to an active form (the medicine doesn't work).
+Sometimes the drug that you take orally is taken in an "inactive" state, and needs to be metabolized to its active state. An individual's ability to metabolize a drug depends on the form of CYP enzyme produced by their liver. Most people have active CYP enzymes, when they take medication it is broken down efficiently and there is no build up of medication in the body (no risk of overdose). If you have deficient CYP, you are not breaking down the medication in your body (leading to toxicity), or the drug may never be converted to an active form (the medicine doesn't work).
 
 | Normal Metabolizer   | Intermediate Metabolizer  |  Poor metabolizer   |  Ultra rapid metabolizer |
 |---  |---  |---  |---  |
@@ -101,6 +101,7 @@ Sometimes the drug that you take orally is taken in an "inactive" state, and nee
 
 
 # Clopidogrel
+
 [Clopidogrel](https://www.drugbank.ca/drugs/DB00758) (brand name is Plavix) is an anti platelet agent used to prevent blood clots. Prevents people who recently had a cornary event from having another one (by making their blood less sticky).
 
 + Response to clopidogrel is very variable (in 4-20% of people it doesn't work)!
@@ -117,10 +118,25 @@ For poor metabolizers, this means they will have lower levels of the active meta
 Tests are available for the CYP2C19 genotype, and can be used to inform therapeutic strategy (prescribe an alternative drug), but right now, it is not standard of care to be tested if you are a poor metabolizer.
 
 # Codeine
-metabolized into morphine
 
-# Warfarin
-cheap, widely used anti coagulant
+Codeine is a commonly used opioid. Codeine isn't effective until it is metabolized into morphine, which provides the "pain killing" effect.
+CYP2D6 is the gene that produces the metabolizing enzyme that transforms codeine into it's active form (morphine).
+CYP2D6 alleles are complicated, highly polymorphic (at least 140 known alleles).
+Depending on the variant of CYP2D6 that you have, you're categorized as a "Normal", "Intermediate", "Poor", or "Ultra rapid metabolizer".
+If you're a "poor" metabolizer, the codeine isn't converted into morphine and you don't get any pain relief.
+
+If you're an ultra-rapid metabolizer, the codeine can be converted into too much morphine (resulting in morphine toxicity). There was a case where a mother didn't know that she was an ultra-rapid metabolizer, took tylenol, and produced way too much morphine. This didn't kill her, because as an adult she has a higher tolerance, but it killed her infant because it was passed through to the breast milk.
+
+Codeine is relatively accessible/inexpensive, was very commonly prescribed for a long time. Right now, The Academy of Pediatrics has decided it shouldn't be used in children at all because of the lethality to children who are ultra-rapid metabolizers, it has been banned for use in children. However, to geneticists this is seen as a loss, since it codeine can be safely prescribed to be patients, if a genetic test is administered beforehand verifying that the patient is not an ultra-rapid metabolizer.
+
+
+<!-- # Warfarin
+A few genes effect warfarin response: Cytochrome P450, also known as CYP2C9 (pronounced "sip 2C9"), VKORC1, CYP4F2.
+
+Warfarin is a cheap, widely used anti coagulant, that has a narrow therapeutic index (hard to predict the correct final dose). If you have an overdose of warfarin you are at risk of bleeding events, however if your dose is too small, you are at risk of another coronary event (not )
+
+If you have too much warfarin
+
 originally used as a rat poison
 INR - therapeutic range
 beginning, dangerous, not in therapeutic range
@@ -156,10 +172,23 @@ Identify variation in drug response, reduce adverse events in
 + difficulty in getting randomized control trials
 + the cost of genotyping (and whether on not this cost will be reimbursed by insurance companies)
 + the time delay introduced in getting a response by genotyping
-+ clinical adoption - when this information about how genes interact with drugs will be integrated into routine into medical training, FDA drug labelling, publishing dosing guidelines
++ clinical adoption - when this information about how genes interact with drugs will be integrated into routine into medical training, FDA drug labelling, publishing dosing guidelines -->
 
-CPIC
+
+
+# Deep Learning for Pharmacogenomics -- Papers
+
++ [Molecular Graph Convolutions: Moving Beyond Fingerprints](https://arxiv.org/abs/1603.00856)
+
++ [AtomNet: A Deep Convolutional Neural Network for Bioactivity Prediction in Structure-based Drug Discovery](https://arxiv.org/abs/1510.02855)
+
++ [Convolutional LSTM Networks for Subcellular Localization of Proteins](https://arxiv.org/pdf/1503.01919.pdf)
+
++ [Protein contact map prediction using ultra deep residual nets](http://biorxiv.org/content/early/2016/09/06/073239)
+
++ [DeepTox: Toxicity Prediction using Deep Learning](https://www.frontiersin.org/articles/10.3389/fenvs.2015.00080/full)
+
 
 ## Thanks
 
-Credit for the good stuff goes to [Dr. Michelle Whirl-Carrillo, PhD](https://profiles.stanford.edu/michelle-carrillo?tab=publications), mistakes are mine!   
+Credit for the good stuff goes to [Anshul Kundaje](https://profiles.stanford.edu/anshul-kundaje) and [Dr. Michelle Whirl-Carrillo, PhD](https://profiles.stanford.edu/michelle-carrillo?tab=publications), mistakes are mine!   
