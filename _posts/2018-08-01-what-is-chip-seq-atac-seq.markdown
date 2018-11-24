@@ -52,6 +52,8 @@ TLDR;
 
 Goal: Discover what sequence(s) of DNA a protein binds to
 
+<img src="/images/post-covers/what-is-chip-seq-atac-seq.jpg" height="auto" width="90%">
+
 1. break up the DNA into small pieces, around 100 base pairs in length (sonication)
 2. wash the DNA with the target protein. The protein will bind to specific sequences of DNA. (enrichment)
 3. use antibodies that bind specifically to the target protein to grab the DNA that has the protein attached to it
@@ -67,7 +69,7 @@ ATAC-seq is an experiment that answers the question: **is the DNA in a region of
 
 + Closed chromatin is called "heterochromatin", which is pictured on the bottom. The DNA is not accessible since it is tightly wrapped around the histone octamer.
 
-<img src="/images/posts/euchhetero.png" height="auto" width="70%">
+<img src="/images/posts/euchhetero.png" height="auto" width="60%">
 
 [Image Credit](https://www.epigentek.com/catalog/chromatin-remodeling-and-unraveling-the-histone-code-n-15.html?currency=au)
 
@@ -76,8 +78,8 @@ ATAC-seq uses an engineered Tn5 transposase to cleave DNA and to integrate prime
 
 DNase-seq and FAIRE–seq are also used to determine if a piece of DNA is in open or closed chromatin.
 
-DNase-seq  - chromatin is lightly digested by the DNase I endonuclease. Size selection is used to enrich for fragments that are produced in regions of chromatin where the DNA is highly sensitive to DNase I attack
-FAIRE-seq - formaldehyde is used to crosslink chromatin, and phenol–chloroform is used to isolate sheared DNA.
++ DNase-seq  - chromatin is lightly digested by the DNase I endonuclease. Size selection is used to enrich for fragments that are produced in regions of chromatin where the DNA is highly sensitive to DNase I attack
++ FAIRE-seq - formaldehyde is used to crosslink chromatin, and phenol–chloroform is used to isolate sheared DNA.
 
 
 
