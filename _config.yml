@@ -15,8 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Noor Siddiqui
 
-description: > # this means to ignore newlines until "baseurl:"
-  Noor Siddiqui's Personal Site
+description: "Noor Siddiqui's Personal Site" # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://noorsiddiqui.com" # the base hostname & protocol for your site
 
