@@ -4,7 +4,33 @@ title: Speaking
 permalink: /speaking/
 ---
 
+
 <div class="speaking">
+<h2 class ="year">
+    2019
+</h2>
+<div class="event">
+    <div class="date">
+        February 7
+    </div>
+    <a href="https://www.youtube.com/watch?time_continue=772&v=B3vH_QVXx1o" class="title">
+        Conversation with Steve Hsu and Corey Washington on Silicon Valley
+    </a>
+    <div class="subtitle">
+        Manifold Podcast
+    </div>
+
+    <div class="date">
+        January 14
+    </div>
+    <class="title">
+         Panel on Entrepreneurship in Healthcare for University of Minnesota’s Medical Specialization MBA students
+    </a>
+    <div class="subtitle">
+        OptumLabs, San Francisco
+    </div>
+
+
 <h2 class ="year">
     2018
 </h2>
