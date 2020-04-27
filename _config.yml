@@ -19,7 +19,7 @@ description: "Noor Siddiqui's Personal Site" # this means to ignore newlines unt
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://noorsiddiqui.com" # the base hostname & protocol for your site
 
-twitter_username: noorfsiddiqui
+twitter_username: noor_siddiqui_
 email: nfsiddiqui [at] gmail [dot] com
 
 # Build settings

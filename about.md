@@ -17,19 +17,19 @@ img {
 
 <br>
 
-<br>
-
-Right now I'm doing research under [Anshul Kundaje](https://profiles.stanford.edu/anshul-kundaje) (deep learning for genomics). Past: researcher under [Sebastian Thrun](https://en.wikipedia.org/wiki/Sebastian_Thrun) (skin classifiers).
+Right now I'm building [Orchid](https://www.orchidhealth.com).
 
 <br>
 
-While at Stanford, I studied Computer Science, started a talk series called [#nofilter](https://nofiltertalks.com/), ran a translational [group](http://ai.stanford.edu/entrepreneurs/index.html) for researchers in the Stanford AI Lab,  cofounded Stanford's [Center for Distributed Trust](https://cryptolab.stanford.edu/about), and taught a [class](http://web.stanford.edu/class/bioe60/) on distributed technologies.
+Before Orchid, I taught a class at Stanford on [Reproductive Technology](https://reproductivetech.stanford.edu), did AI and genomics research with [Anshul Kundaje](https://profiles.stanford.edu/anshul-kundaje) (deep learning for genomics) and [Sebastian Thrun](https://en.wikipedia.org/wiki/Sebastian_Thrun) (computer vision), started a speaker series called [#nofilter](https://nofiltertalks.com/), cofounded Stanford's [Center for Distributed Trust](https://cryptolab.stanford.edu/about), ran a translational [group](http://ai.stanford.edu/entrepreneurs/index.html) for entrepreneurial researchers in the Stanford AI Lab, and earned my M.S/B.S in Computer Science from Stanford.
 
 <br>
 
-Before Stanford, I started a digital health company called Remedy, that helped doctors get instant answers from specialists. We deployed our product to doctors and nurses at Harvard affiliated hospitals. I met some of my favorite people through the [Thiel Fellowship](http://www.thielfellowship.org/").  
+Before schooling, I started a digital health company called Remedy, that helped doctors get instant answers from specialists. We deployed our product to doctors and nurses at Harvard affiliated hospitals. I met some of my favorite people through the [Thiel Fellowship](https://thielfellowship.org/).  
 
+<br>
 
+I grew up in the suburbs of Virginia, an hour south of Washington, DC.
 
 
 <br>
