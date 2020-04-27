@@ -21,7 +21,7 @@ Right now I'm building [Orchid](https://www.orchidhealth.com).
 
 <br>
 
-Before Orchid, I taught a class at Stanford on [Reproductive Technology](https://reproductivetech.stanford.edu), did AI and genomics research with [Anshul Kundaje](https://profiles.stanford.edu/anshul-kundaje) (deep learning for genomics) and [Sebastian Thrun](https://en.wikipedia.org/wiki/Sebastian_Thrun) (computer vision), started a speaker series called [#nofilter](https://nofiltertalks.com/), cofounded Stanford's [Center for Distributed Trust](https://cryptolab.stanford.edu/about), ran a translational [group](http://ai.stanford.edu/entrepreneurs/index.html) for entrepreneurial researchers in the Stanford AI Lab, and earned my M.S/B.S in Computer Science from Stanford.
+Before Orchid, I taught a class at Stanford on [Reproductive Technology](https://reproductivetech.stanford.edu), did AI and genomics research with [Anshul Kundaje](https://profiles.stanford.edu/anshul-kundaje) (deep learning for genomics) and [Sebastian Thrun](https://en.wikipedia.org/wiki/Sebastian_Thrun) (computer vision), started a speaker series called [#nofilter](https://nofiltertalks.com/), cofounded Stanford's [Center for Distributed Trust](https://cryptolab.stanford.edu/about), ran a [translational group](http://ai.stanford.edu/entrepreneurs/index.html) for entrepreneurial researchers in the Stanford AI Lab, and earned my M.S/B.S in Computer Science from Stanford.
 
 <br>
 
