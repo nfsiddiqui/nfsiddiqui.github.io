@@ -7,6 +7,22 @@ permalink: /speaking/
 
 <div class="speaking">
 <h2 class ="year">
+    2020
+</h2>
+
+<div class="event">
+    <div class="date">
+        Feb 10
+    </div>
+    <a href="https://doi.org/10.1016/j.xfre.2020.03.001" class="title">
+        Keynote Speaker at Summit:IVF, "Genomics, AI, and the future of IVF"
+    </a>
+    <div class="subtitle">
+        Aspen, Colorado
+    </div>
+</div>
+
+<h2 class ="year">
     2019
 </h2>
 <div class="event">
