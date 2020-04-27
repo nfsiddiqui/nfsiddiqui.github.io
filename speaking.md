@@ -20,15 +20,21 @@ permalink: /speaking/
         Manifold Podcast
     </div>
 
+</div>
+
+<div class="event">
     <div class="date">
-        January 14
+      January 14
     </div>
-    <class="title">
+    <div class="title">
          Panel on Entrepreneurship in Healthcare for University of Minnesota’s Medical Specialization MBA students
-    </a>
+    </div>
+
     <div class="subtitle">
         OptumLabs, San Francisco
     </div>
+</div>
+
 
 
 <h2 class ="year">
@@ -44,8 +50,9 @@ permalink: /speaking/
     <div class="subtitle">
         Computer History Museum, Mountain View, CA
     </div>
+</div>
 
-    <div class="event">
+<div class="event">
         <div class="date">
             April 2
         </div>
