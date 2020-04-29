@@ -36,13 +36,13 @@ I grew up in the suburbs of Virginia, an hour south of Washington, DC.
 
 ## Favorite Essays under 40 pages
 
- + [The Inner Ring](http://johnrepici.com/Misc/TheInnerRing.pdf) -- By CS Lewis
+ + [The Inner Ring]((/papers/TheInnerRing.pdf)) -- By CS Lewis
 
  + [What You Can't Say](http://www.paulgraham.com/say.html) -- By Paul Graham
 
  + [Secrets](http://blakemasters.com/post/22866240816/peter-thiels-cs183-startup-class-11-notes) -- By Peter Thiel
 
- + [Story of Your Life](http://discours.philol.msu.ru/attachments/article/264/Chiang_Story%20of%20Your%20Life.pdf) -- By Ted Chiang
+ + [Story of Your Life](/papers/ted-chiang-story-of-your-life.pdf) -- By Ted Chiang
 
 
 <br>
