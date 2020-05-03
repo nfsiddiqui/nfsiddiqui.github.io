@@ -36,7 +36,7 @@ I grew up in the suburbs of Virginia, an hour south of Washington, DC.
 
 ## Favorite Essays under 40 pages
 
- + [The Inner Ring]((/papers/TheInnerRing.pdf)) -- By CS Lewis
+ + [The Inner Ring](/papers/TheInnerRing.pdf) -- By CS Lewis
 
  + [What You Can't Say](http://www.paulgraham.com/say.html) -- By Paul Graham
 
