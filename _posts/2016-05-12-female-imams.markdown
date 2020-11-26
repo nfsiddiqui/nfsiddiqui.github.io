@@ -196,3 +196,39 @@ www.javedahmadghamidi.com/questions/view/women-leading-men-in-prayer. 22
 19. Shaykh Abou El Fadl. “Fatwa: On Women Leading Prayer.” On Beauty and Reason in Islam, 5 Apr. 2010,
 www.searchforbeauty.org/2010/04/05/fatwa-on-women-leading-prayer/.
 20. Mohammed, Khaleel. “The Message of Islam / For People Who Think.” Female-Led Prayer , 10 Apr. 2005, www.forpeoplewhothink.org/.
+
+
+
+
+[Quran 6:38] We did not leave anything out of this book.
+
+[Quran 6:114] Shall I seek other than God as a law maker, when He has brought down to you this Book fully detailed?
+
+[Quran 7:3] You shall all follow what has been brought down to you (QURAN) from your Lord and do not follow any allies besides Him. Rarely do you remember.
+
+[Quran 7:52] We have given them a scripture that is fully detailed, with knowledge, guidance, and mercy for the people who believe.
+
+[Quran 12:111] In their history, there is a lesson for those who possess intelligence. This (Quran) confirms all previous scriptures, provides the details of everything, and is a beacon and mercy for those who believe.
+
+[Quran 77:50] So in what discourse, other than this (QURAN), do they believe?
+
+(Translations by Yusuf Ali)
+
+
+Hadith invoked by those opposed to full female participation:
+
+Source: reported by Ibn Majah on the authority of Jabir ibn 'Abdullah​ "A woman should not lead men in prayer," (Ibn Majah Vol:1, P343). The eminent scholars of Hadith say that the chain of reporters of this hadith is extremely weak, and hence, it is not to be taken as evidence in the question in hand.
+
+Source: Anas narrated in Bukhari​ states that the Prophet lead him and his mother or aunt in prayer. He said: “He placed me on his right, and let the woman stand behind us”.
+
+Source: Malik has narrated from Anas ​states that the Prophet said: “I lined up with the orphan (boy) behind him (Muhammad), and the old woman stood behind us.”
+
+Source: Muslim narrated in (Sahih Muslim) that Abu Huraira​ said: “The best row for the men is the first one and the worst one [for them] is the last one, and the best row for the women is the last one and the worst one [for them] is the first one.”
+
+Source: Abu Dawud​: “Friday prayer is a due obligation upon every Muslim in congregation, except four: an owned slave, a woman, a male child, and a sick person”.
+
+Source: Ahmad and Abu Dawud ​the Prophet said: “Do not prevent the women to go out to the mosques, and their homes are better for them” .
+
+Source: Al-Sadooq, Man Laa YaH Duruh Al-Faqeeh, vol. 1, pg. 317, hadith # 937 "Everything is mutlaq (unconditional/halaal), until a prohibition arrives concerning it."
+
+Shafi'i school, Source: Mujtahid Imam [Kitab al-Umm by Imam al-Shafi 'i rady Allahu 'anh] ​"If a woman leads men, women and male children, the Salat of the women [the woman Imam including the women Ma'muns] are valid whereas the Salat of the men and the male children are invalid. This is because Allah (Glory and Exalted is He!) has made men supporters of women and has discouraged them from becoming protectors and so forth. It would not be permissible for a woman to be an Imam of a man in any prayer at any time whatsoever. [Umm, 1:292]
