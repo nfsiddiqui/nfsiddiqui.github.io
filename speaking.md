@@ -12,10 +12,23 @@ permalink: /speaking/
 
 <div class="event">
     <div class="date">
+        July 3
+    </div>
+    <a href="https://progressstudies.school/the-torch-of-progress-ep-7-with-noor-siddiqui/" class="title">
+        The Torch of Progress Podcast
+    </a>
+    <div class="subtitle">
+      Progress Studies for Aspiring Young Scholars
+    </div>
+
+</div>
+
+<div class="event">
+    <div class="date">
         Feb 10
     </div>
     <a href="https://doi.org/10.1016/j.xfre.2020.03.001" class="title">
-        Keynote Speaker at Summit:IVF, "Genomics, AI, and the future of IVF"
+        Keynote at Summit:IVF, "Genomics, AI, and the future of IVF"
     </a>
     <div class="subtitle">
         Aspen, Colorado
