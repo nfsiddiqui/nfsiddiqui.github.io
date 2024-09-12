@@ -21,16 +21,7 @@ Right now I'm building [Orchid](https://www.orchidhealth.com).
 
 <br>
 
-Before Orchid, I taught a class at Stanford on [Reproductive Technology](https://reproductivetech.stanford.edu), did AI and genomics research with [Anshul Kundaje](https://profiles.stanford.edu/anshul-kundaje) (deep learning for genomics) and [Sebastian Thrun](https://en.wikipedia.org/wiki/Sebastian_Thrun) (computer vision), started a speaker series called [#nofilter](https://nofiltertalks.com/), cofounded Stanford's [Center for Distributed Trust](https://cryptolab.stanford.edu/about), ran a [translational group](http://ai.stanford.edu/entrepreneurs/index.html) for entrepreneurial researchers in the Stanford AI Lab, and earned my M.S/B.S in Computer Science from Stanford.
-
-<br>
-
-Before schooling, I started a digital health company called Remedy, that helped doctors get instant answers from specialists. We deployed our product to doctors and nurses at Harvard affiliated hospitals. I met some of my favorite people through the [Thiel Fellowship](https://thielfellowship.org/).  
-
-<br>
-
-I grew up in the suburbs of Virginia, an hour south of Washington, DC.
-
+Before Orchid, I taught a class at Stanford on [Reproductive Technology](https://reproductivetech.stanford.edu), did AI and genomics research, started a speaker series called [#nofilter](https://nofiltertalks.com/), ran a [translational group](http://ai.stanford.edu/entrepreneurs/index.html) for entrepreneurial researchers in the Stanford AI Lab, and earned my MS/BS in Computer Science from Stanford. Before Stanford, I met some of my favorite people through the [Thiel Fellowship](https://thielfellowship.org/) - highly recommend applying if you're under 20!
 
 <br>
 
@@ -40,7 +31,7 @@ I grew up in the suburbs of Virginia, an hour south of Washington, DC.
 
  + [What You Can't Say](http://www.paulgraham.com/say.html) -- By Paul Graham
 
- + [Secrets](http://blakemasters.com/post/22866240816/peter-thiels-cs183-startup-class-11-notes) -- By Peter Thiel
+ + [Secrets](https://blakemasters.tumblr.com/post/22866240816/peter-thiels-cs183-startup-class-11-notes) -- By Peter Thiel
 
  + [Story of Your Life](/papers/ted-chiang-story-of-your-life.pdf) -- By Ted Chiang
 
